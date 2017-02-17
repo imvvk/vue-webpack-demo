@@ -1,0 +1,7 @@
+.a {
+  font-size : 14px;
+  color : #fff;
+  .b {
+    font-size : 12px; 
+  }
+}
